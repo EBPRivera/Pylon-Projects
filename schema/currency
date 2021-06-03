@@ -1,0 +1,8 @@
+user.id = { currency: number }
+
+currency_modifier = {
+    pp: number,
+    gp: number,
+    sp: number,
+    cp: number,
+}
